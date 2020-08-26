@@ -33,6 +33,13 @@ To start setting mode you press MODE button. Now you are available to edit hours
 2. Three push buttons
 3. 2×16 LCD (LM016L)
 
+> Youtube video of the project
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EORuZf2P008
+" target="_blank"><img src="http://img.youtube.com/vi/EORuZf2P008/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
+
+
 ## Future work:
 - [x] ~~Add setting mode.~~
 - [ ] Add alarm mode.
